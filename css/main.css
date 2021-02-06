@@ -1,8 +1,3 @@
 body { 
-    /* Image Location */ 
-    /* Background image is centered vertically and horizontally at all times */ 
-    background-size: cover; 
-    background-color: #464646; 
-    /* Font Colour */ 
     color:white; 
 } 
