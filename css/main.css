@@ -1,6 +1,6 @@
 body { 
     /* Image Location */ 
-    background-image: url("img/steve.css");
+    background-image: url("img/steve.jpg");
     /* Background image is centered vertically and horizontally at all times */ 
     background-position: center center; 
     background-repeat: no-repeat; 
