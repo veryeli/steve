@@ -44,22 +44,23 @@ h2 {
   }
 
 h1 {
-  font-size: 2.875rem;
-  line-height: 3.5rem;
-  font-weight: 700;
+  font-size: 4.6rem;
+  line-height: 6rem;
+  font-weight: 800;
   letter-spacing: -0.025em;
   margin-bottom: 2rem;
 }
 
 p {
 max-width: 36rem;
-  font-size: 1rem;
+  font-size: 2.3rem;
   margin-bottom: 3rem;
 }
 button {  
+  font-weight: 600;
   text-align: center;
   cursor: pointer;
-  font-size:24px;
+  font-size:4rem;
   margin: 0 0 24px 0;
   border-radius: 4px;
     position: relative;
