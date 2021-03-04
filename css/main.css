@@ -39,8 +39,14 @@ body {
   font-family: var(--font-family);
   color: var(--dark-color);
   background-image: url("../img/missouriBKGRND.png");
-  background-repeat: no-repeat;
+
   background-attachment: fixed;
+}
+
+@media (hover: none) {
+   body {
+       background-attachment: initial;
+   }
 }
 
 h2 {
