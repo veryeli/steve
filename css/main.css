@@ -18,7 +18,7 @@
   );
 }
 
-
+img {width:20%;}
 
 * {
   margin: 0;
@@ -86,6 +86,8 @@ button {
     text-decoration: none;
     overflow: hidden;
     color:white;
+    margin-right: 20%;
+    margin-left: 20%;
 
 }
 
